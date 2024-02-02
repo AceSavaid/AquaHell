@@ -1,5 +1,6 @@
 # AquaHell-GameJam
  A game made in a week for a local game jam with the theme of Hell.  
+ You play as an orb of water that has gotten stuck in hell.  With fireballs wanting to dry out the orb, they must run around the area to collect water while using their health to keep the enemies at bay.  After each death, they can purchase upgrades in the shop to make this purgatory easier as they try to survive for as long as possible and get the best score. 
 
  ## Systems Created
  - Base player with mobility and projectile shooting abilities
